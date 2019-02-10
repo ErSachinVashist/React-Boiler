@@ -11,7 +11,12 @@ const headerCss=(theme)=>({
             marginRight: 20,
         },
         title: {
-            display: 'block'
+            display: 'block',
+            color:'white',
+        },
+        linkStyle:{
+            color:'white',
+            textDecoration:'none'
         },
         sectionDesktop: {
             display: 'none',
@@ -48,16 +53,42 @@ const footerCss=(theme)=>({
 const homeCss=(theme)=>({
     card: {
         maxWidth: 400,
-        margin:'14vh auto'
-},
+        margin:'14vh auto',
+        [theme.breakpoints.down('xs')]:{
+            width:300
+        }
+    },
+    cardMedia: {
+        height: 0,
+        paddingTop: '56.25%', // 16:9
+    },
+    cardHead:{
+        textAlign:'center'
+    }
+});
+
+const profileCss=(theme)=>({
+    card: {
+        maxWidth: 400,
+        margin:'14vh auto',
+        [theme.breakpoints.down('xs')]:{
+            width:300
+        }
+    },
     media: {
         height: 0,
         paddingTop: '56.25%', // 16:9
     },
+    cardHead:{
+        textAlign:'center'
+    }
+
 });
+
 
 export {
     headerCss,
     footerCss,
-    homeCss
+    homeCss,
+    profileCss
 }

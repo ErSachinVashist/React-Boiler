@@ -3,29 +3,24 @@ import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardMedia from '@material-ui/core/CardMedia';
-import CardContent from '@material-ui/core/CardContent';
-import Typography from '@material-ui/core/Typography';
+import CardHeader from '@material-ui/core/CardHeader';
 import {homeCss} from '../../helpers/componentStyle';
 class Home extends React.Component {
 
     render() {
         const { classes } = this.props;
-
         return (
             <Card className={classes.card}>
                 <CardMedia
-                    className={classes.media}
+                    className={classes.cardMedia}
                     image={require('../../assests/images/reactHome.png')}
-                    title="Paella dish"
+                    title="React "
                 />
-                <CardContent>
-                    <Typography variant="h6" gutterBottom align='center'>
-                        Ready to kick start your project !!
-                    </Typography>
-                    <Typography variant="body1" align='center'>
-                        Start editing you app from ./src
-                    </Typography>
-                </CardContent>
+                <CardHeader
+                    className={classes.cardHead}
+                    title='Kick Start your Project!'
+                    subheader='Start editing you app from ./src'
+                />
             </Card>
         );
     }

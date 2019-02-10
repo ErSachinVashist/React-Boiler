@@ -10,7 +10,7 @@ const theme = createMuiTheme({
         error: red,
     },
     typography: {
-        fontFamily:"'Rubik', sans-serif",
+        fontFamily:"'Niramit', sans-serif",
         useNextVariants: true
     }
 });
