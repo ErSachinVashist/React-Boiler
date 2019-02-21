@@ -1,1 +1,0 @@
-{"version":3,"sources":["/home/vashist/Documents/React-Boiler/src/App/app.css"],"names":[],"mappings":"AAAA,UACI,SAAW,AACX,kBAAsB,CACzB,AAED,cACI,UAAW,CACd","file":"main.a24825c0.chunk.css","sourcesContent":["html,body{\n    margin:0px;\n    background: whitesmoke\n}\n\n.main-wrapper{\n    margin:5px;\n}\n"]}
