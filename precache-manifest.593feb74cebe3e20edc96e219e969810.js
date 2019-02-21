@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/react-boiler/static/js/runtime~main.b596bf27.js"
   },
   {
-    "revision": "9122474ef335dbd47471",
-    "url": "/react-boiler/static/js/main.9122474e.chunk.js"
+    "revision": "70b603e04b221a53b49c",
+    "url": "/react-boiler/static/js/main.70b603e0.chunk.js"
   },
   {
     "revision": "02c830cce70b05c19b34",
     "url": "/react-boiler/static/js/1.02c830cc.chunk.js"
   },
   {
-    "revision": "9122474ef335dbd47471",
-    "url": "/react-boiler/static/css/main.cd919bff.chunk.css"
+    "revision": "70b603e04b221a53b49c",
+    "url": "/react-boiler/static/css/main.a24825c0.chunk.css"
   },
   {
-    "revision": "cd4745e1d91111ad6b297fbd96912413",
+    "revision": "6c4d93c72ae0ae7f04008a07893517a1",
     "url": "/react-boiler/index.html"
   }
 ];
