@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {BrowserRouter} from 'react-router-dom';
+import {BrowserRouter,Switch} from 'react-router-dom';
 import { MuiThemeProvider } from '@material-ui/core/styles';
 import theme from '../helpers/theme'
 import routes from './routes'
@@ -10,11 +10,13 @@ class App extends Component {
     render() {
         return (
             <div>
-                <BrowserRouter>
+                <BrowserRouter basename={process.env.PUBLIC_URL}>
                     <MuiThemeProvider theme={theme}>
                         <Header/>
                         <div className='main-wrapper'>
-                            {routes}
+                            <Switch>
+                                {routes}
+                            </Switch>
                         </div>
                         <Footer/>
                     </MuiThemeProvider>
