@@ -1,7 +1,7 @@
 {
   "main.css": "/React-Boiler/static/css/main.4a30b784.chunk.css",
-  "main.js": "/React-Boiler/static/js/main.02f2d804.chunk.js",
-  "main.js.map": "/React-Boiler/static/js/main.02f2d804.chunk.js.map",
+  "main.js": "/React-Boiler/static/js/main.3754318b.chunk.js",
+  "main.js.map": "/React-Boiler/static/js/main.3754318b.chunk.js.map",
   "static/js/1.acde1ebb.chunk.js": "/React-Boiler/static/js/1.acde1ebb.chunk.js",
   "static/js/1.acde1ebb.chunk.js.map": "/React-Boiler/static/js/1.acde1ebb.chunk.js.map",
   "runtime~main.js": "/React-Boiler/static/js/runtime~main.6ede884f.js",
@@ -10,6 +10,6 @@
   "static/media/reactHome.png": "/React-Boiler/static/media/reactHome.1716baa0.png",
   "static/media/profile.jpg": "/React-Boiler/static/media/profile.e614ca16.jpg",
   "index.html": "/React-Boiler/index.html",
-  "precache-manifest.9607a6e3acf9d65390f9015efc9ad193.js": "/React-Boiler/precache-manifest.9607a6e3acf9d65390f9015efc9ad193.js",
+  "precache-manifest.93e5f4a67d571f9cf45634a4b6f58193.js": "/React-Boiler/precache-manifest.93e5f4a67d571f9cf45634a4b6f58193.js",
   "service-worker.js": "/React-Boiler/service-worker.js"
 }
