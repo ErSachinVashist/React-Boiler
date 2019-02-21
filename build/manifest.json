@@ -8,8 +8,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
-  "scope":"/",
+  "start_url": "https://ersachinvashist.github.io/React-Boiler/",
   "background_color": "#FFFFFF",
   "display": "fullscreen",
   "theme_color": "#0277BD"
