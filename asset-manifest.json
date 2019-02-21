@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-boiler/static/css/main.3b256d93.chunk.css",
-  "main.js": "/react-boiler/static/js/main.6defc095.chunk.js",
-  "main.js.map": "/react-boiler/static/js/main.6defc095.chunk.js.map",
-  "static/js/1.e38910b1.chunk.js": "/react-boiler/static/js/1.e38910b1.chunk.js",
-  "static/js/1.e38910b1.chunk.js.map": "/react-boiler/static/js/1.e38910b1.chunk.js.map",
+  "main.css": "/react-boiler/static/css/main.a24825c0.chunk.css",
+  "main.js": "/react-boiler/static/js/main.70b603e0.chunk.js",
+  "main.js.map": "/react-boiler/static/js/main.70b603e0.chunk.js.map",
+  "static/js/1.02c830cc.chunk.js": "/react-boiler/static/js/1.02c830cc.chunk.js",
+  "static/js/1.02c830cc.chunk.js.map": "/react-boiler/static/js/1.02c830cc.chunk.js.map",
   "runtime~main.js": "/react-boiler/static/js/runtime~main.b596bf27.js",
   "runtime~main.js.map": "/react-boiler/static/js/runtime~main.b596bf27.js.map",
-  "static/css/main.3b256d93.chunk.css.map": "/react-boiler/static/css/main.3b256d93.chunk.css.map",
+  "static/css/main.a24825c0.chunk.css.map": "/react-boiler/static/css/main.a24825c0.chunk.css.map",
   "static/media/reactHome.png": "/react-boiler/static/media/reactHome.1716baa0.png",
   "static/media/profile.jpg": "/react-boiler/static/media/profile.e614ca16.jpg",
   "index.html": "/react-boiler/index.html",
-  "precache-manifest.e9fb2af4c75e58dbbbc0a23b5f0c9903.js": "/react-boiler/precache-manifest.e9fb2af4c75e58dbbbc0a23b5f0c9903.js",
+  "precache-manifest.460af3299bc89b0bd4bf1e74fe9fb6b1.js": "/react-boiler/precache-manifest.460af3299bc89b0bd4bf1e74fe9fb6b1.js",
   "service-worker.js": "/react-boiler/service-worker.js"
 }
